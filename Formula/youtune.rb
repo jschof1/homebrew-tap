@@ -3,8 +3,8 @@ class Youtune < Formula
 
   desc "Smart YouTube → MP3 downloader with auto-tagging, album art, lyrics & Soulseek upgrades"
   homepage "https://github.com/jschof1/youtune"
-  url "https://files.pythonhosted.org/packages/source/y/youtune/youtune-1.2.0.tar.gz"
-  sha256 "f2300b0a9990268faafd7d9786fe681216fe95ecb60d28aa3b0fb8b321b30362"
+  url "https://files.pythonhosted.org/packages/source/y/youtune/youtune-1.2.1.tar.gz"
+  sha256 "4a8e785668daa908d6a9e531aac5c6c093e8c8c845718bef1d2d23b0ae0b813a"
   license "MIT"
   head "https://github.com/jschof1/youtune.git", branch: "main"
 
